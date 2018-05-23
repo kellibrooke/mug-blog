@@ -1,0 +1,22 @@
+body {
+  margin: 10px 25px 10px 25px;
+}
+
+.title {
+  background-color: lightblue;
+  color: #085;
+  padding: 5px;
+  text-align: center;
+}
+
+.about {
+  background-color: gold;
+  font-family: cursive;
+  margin: 10px 0 10px 0;
+  padding: 10px;
+}
+
+.posts {
+  background-color: lightblue;
+  padding: 10px;
+}
